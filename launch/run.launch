@@ -1,0 +1,3 @@
+<launch>
+	<node name="run_throttle" pkg="throttle" type="run_throttle.py" output="screen" />
+</launch>
