@@ -1,7 +1,7 @@
-## controller_throttle
+## Throttle
 
 <p align="center">
-  <img src="./images/motor.jpg" width=40% height=40% />
+  <img src="./images/motor.png" width=40% height=40% />
 </p>
 
 ### About
@@ -25,7 +25,8 @@ For more information:
 
 In order to start the node, use the following commands
 ```
-git clone git@github.com:project-omicron/controller_throttle.git
-cd ./controller_throttle/
-roslaunch launch/throttle.launch
+git clone git@github.com:project-omicron/throttle.git
+cd ./throttle/
+roslaunch launch/config_throttle.launch
+roslaunch launch/run_throttle.launch
 ```
