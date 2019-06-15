@@ -7,8 +7,10 @@
   <maintainer email="kurbakov.d@gmail.com">kurbakov</maintainer>
   <maintainer email="michal.slonina@gmail.com">michalslonina</maintainer>
 
-
   <license>MIT</license>
+
+  <author email="kurbakov.d@gmail.com">kurbakov</author>
+  <author email="michal.slonina@gmail.com">slonina</author>
 
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>dynamic_reconfigure</build_depend>
