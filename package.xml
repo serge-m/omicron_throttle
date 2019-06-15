@@ -10,7 +10,7 @@
   <license>MIT</license>
 
   <author email="kurbakov.d@gmail.com">kurbakov</author>
-  <author email="michal.slonina@gmail.com">slonina</author>
+  <author email="michal.slonina@gmail.com">michalslonina</author>
 
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>dynamic_reconfigure</build_depend>
